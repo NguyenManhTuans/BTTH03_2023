@@ -1,0 +1,19 @@
+{
+    "name": "asus/btth03_2023",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }    
+    },
+    "authors": [
+        {
+            "name": "Nguyen Manh Tuan",
+            "email": "obmhenry12345@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.5",
+        "phpunit/phpunit": "^10.0",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
